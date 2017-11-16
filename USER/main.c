@@ -5,9 +5,7 @@
 #include "usart.h"
 #include "wdg.h"
  
-
-
-
+//测试第一推送到阿里云
  int main(void)
  {		
 	delay_init();	    	 //延时函数初始化	  
